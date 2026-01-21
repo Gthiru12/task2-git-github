@@ -1,1 +1,5 @@
 this is first file
+<<<<<<< HEAD
+=======
+feature work
+>>>>>>> 092179f (add readme file)
